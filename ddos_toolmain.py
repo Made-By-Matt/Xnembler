@@ -4,7 +4,6 @@ import time
 import sys
 import ctypes
 import msvcrt
-import ctypes
 
 ctypes.windll.kernel32.SetConsoleTitleW("DDOS V1")
 
